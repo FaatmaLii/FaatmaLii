@@ -36,3 +36,11 @@ A Junior Data Analyst and M&E professional with a strong interest in turning dat
 - 📝 Blog (Medium): [medium.com/@yourname][(https://medium.com/@yourname)](https://medium.com/@fardahab1999)
 - ✍️ Blog (Substack): [yourname.substack.com][(https://yourname.substack.com)](https://substack.com/@faatmaliban)
 - 📬 Email: faatmaliban@gmail.com
+
+## ✨ Featured Work
+
+### 📊 Marketing Insight Report on Medium  
+[![Read on Medium](https://img.shields.io/badge/Read%20on%20Medium-Marketing%20Insight%20Report-green?style=for-the-badge&logo=medium)](https://medium.com/@fardahab1999/marketing-insight-report-532956649e22)  
+
+
+
