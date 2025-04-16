@@ -30,6 +30,12 @@ A Junior Data Analyst and M&E professional with a strong interest in turning dat
 - 🧹 [Survey Data Cleaning using Python](https://github.com/yourusername/survey-cleaning)
 - 💬 [Thematic Coding of FGD Data with NV
 
+## ✨ Featured Work/Projects
+
+### 📊 Marketing Insight Report on Medium  
+[![Marketing Insight Report](https://private-user-images.githubusercontent.com/88937523/434461891-f73b4523-8645-4ff2-a6f1-075159e82379.jpeg)](https://medium.com/@fardahab1999/marketing-insight-report-532956649e22)
+
+
 📫 **Let’s Connect**
 - 🔗 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/fatima-ahmed-2b1630177/)
 - 🌐 Portfolio Website: [yourusername.github.io](https://yourusername.github.io)
@@ -37,10 +43,7 @@ A Junior Data Analyst and M&E professional with a strong interest in turning dat
 - ✍️ Blog (Substack): [yourname.substack.com][(https://yourname.substack.com)](https://substack.com/@faatmaliban)
 - 📬 Email: faatmaliban@gmail.com
 
-## ✨ Featured Work/Projects
 
-### 📊 Marketing Insight Report on Medium  
-[![Marketing Insight Report](https://private-user-images.githubusercontent.com/88937523/434461891-f73b4523-8645-4ff2-a6f1-075159e82379.jpeg)](https://medium.com/@fardahab1999/marketing-insight-report-532956649e22)
 
 
 
