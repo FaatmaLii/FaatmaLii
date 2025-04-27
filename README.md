@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Faduma Liban — Junior Data Analyst | M&E Assistant | Data Visualization & Information Design Enthusiast
+# 👋 Hi, I'm Faduma Liban — Junior Data Analyst | Data Visualization & Information Design Enthusiast
 
- **Academic Background:**  
-Bachelor of Science in Statistics & Planning  
+ **Academic Background:** 
+ 
+**Bachelor of Science in Statistics & Planning**
 
 Currently working as a **Monitoring & Evaluation Assistant** at IOM Somalia, where I bring a blend of **humanitarian fieldwork experience and data analysis** to support evidence-based programming.
 
