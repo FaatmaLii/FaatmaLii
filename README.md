@@ -10,12 +10,12 @@ Currently working as a **Monitoring & Evaluation Assistant** at IOM Somalia, whe
 A Junior Data Analyst and M&E professional with a strong interest in turning data into meaningful stories. I combine statistical thinking, field insight, and design principles to deliver clean, actionable visuals and reports. My experience includes supporting field surveys, conducting KIIs/FGDs, and managing both qualitative and quantitative data in humanitarian settings.
 
  **What I Know & Am Exploring:**
-- 📊 Data Visualization & Information Design (💡 growing specialization)
-- 📐 Power BI, Tableau (✅ used in dashboards; learning advanced features)
-- ✏️ Adobe Illustrator (🎨 beginner level, exploring infographics)
-- 🌍 ArcGIS  (✅ experienced with mapping tools for M&E and security projects)
-- 🧠 Excel & NVivo for qualitative data (✅ used in thematic analysis of FGDs/interviews)
-- 🐍 Python (currently learning Pandas, Seaborn, and Matplotlib)
+- Data Visualization & Information Design ( growing specialization)
+- Power BI, Tableau ( used in dashboards; learning advanced features)
+- Adobe Illustrator ( beginner level, exploring infographics)
+- ArcGIS  ( experienced with mapping tools for M&E and security projects)
+- Excel & NVivo for qualitative data ( used in thematic analysis of FGDs/interviews)
+- Python (currently learning Pandas and Matplotlib)
 
  **Tools & Technologies**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
